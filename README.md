@@ -1,7 +1,11 @@
 version control system
   -tracks the history of changes as people and team collaborate.
    -it also records changes to a file or set of files over time so that you can recall specific versions later.
-   -VCS allows you to revert selected files back to our previous set reverts the entire project back to the previous state compares changes over time see how last modified something that need to be causing a problem
+   -VCS allows you to revert selected files back to our previous set reverts the entire project back to the previous 
+state compares changes over time see how last modified something that need to be causing a problem.
+     GIT
+    Git is a version to control system that developers useful over the world that helps track different versions of your code and collaborate it with other developers 
+    it also helps you identify a bug in your code and help you with it
       GIT COMMANDS
      These help and enable in the smooth running of different 
 Tasks on The GIThub. 
@@ -15,4 +19,5 @@ Tasks on The GIThub.
     GIT log -it is used to list the versions history for the current branch
     GIT branch-lists all the current branches in current repository
     GIT remote - it is used to connect your local repository to remote servers
+    GIT  reset -it deletes a branch on your remote repository.
 
