@@ -20,4 +20,4 @@ Tasks on The GIThub.
     GIT branch-lists all the current branches in current repository
     GIT remote - it is used to connect your local repository to remote servers
     GIT  reset -it deletes a branch on your remote repository.
-
+    GIT tag- it is used to give thanks to the specified commit
