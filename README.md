@@ -1,6 +1,12 @@
-git is a version control system that allows tracking of changes, help to backup the previous versions and a trunk based development (branch)
+                  GIT AND GITHUHB
+
+git is a version control system that allows tracking of changes,
+ It also helps in backingup the previous versions of te software
+ github is a trunk based development , this means that different people can contribute to one task or project
+ 
 github is the host system for git that allows interaction of other developers on the same project provided you make your repo public and 
-also invite collaborators
+also invite collaborators.
+
       GIT COMMANDS
      These help and enable in the smooth running of different 
 Tasks on The GIThub. 
