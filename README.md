@@ -11,13 +11,13 @@ also invite collaborators.
       
           GIT add.-helps prepare a snapshot before committing
     
-    GIT config-Stitch the author's name and email to be used
+    GIT config-Sticks the author's name and email to be used
   
   GIT init.-used to start and allow repository
      
      GIT clone -is used to obtain repository from existing URL
 
-GIT add. -ads one or more staging area
+GIT add. -adds one or more staging area
       
       GIT commit-commits to any files you've added amd changed
 
