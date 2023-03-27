@@ -1,11 +1,7 @@
-version control system
-  -tracks the history of changes as people and team collaborate.
-   -it also records changes to a file or set of files over time so that you can recall specific versions later.
-   -VCS allows you to revert selected files back to our previous set reverts the entire project back to the previous 
-state compares changes over time see how last modified something that need to be causing a problem.
-     GIT
-    Git is a version to control system that developers useful over the world that helps track different versions of your code and collaborate it with other developers 
-    it also helps you identify a bug in your code and help you with it
+git is a version control system for tracking changes in a distributed system.
+github is more of ahost system for git and allow the interactive working with other developers on one project
+git is like a tree with branches of developers (collaborators) invited by the project owner to contribute something
+a repo is like a folder that stores code and changes in code 
       GIT COMMANDS
      These help and enable in the smooth running of different 
 Tasks on The GIThub. 
